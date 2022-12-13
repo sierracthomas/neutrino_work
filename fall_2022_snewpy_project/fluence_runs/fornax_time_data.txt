@@ -1,0 +1,7 @@
+window_tstart = 0.1015 # Fornax adjusted time bins
+window_tend = 4.1015
+window_bins = 40 # .1 s time bin
+
+window_tstart_burst = -0.0485 # Fornax adjusted time bins
+window_tend_burst = 0.1015
+window_bins_burst = 15 # .01 s time bin

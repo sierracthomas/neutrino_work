@@ -1,0 +1,3 @@
+mv /Users/sierra/Desktop/neutrino_fall_2022/dependencies/SNEWPY_models/Fornax_2021/Fornax_2021_lum_spec_26.99M_r10000_dat.h5_NoTransformation.tar.bz2 .
+tar -xf Fornax_2021_lum_spec_26.99M_r10000_dat.h5_NoTransformation.tar.bz2
+rm parameterinfo
