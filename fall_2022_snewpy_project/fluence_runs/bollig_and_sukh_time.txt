@@ -1,0 +1,22 @@
+bollig
+
+window_tstart = 0.1 # Zha
+window_tend = 1.9
+window_bins = 18
+
+window_tstart_burst = -0.1 # Zha
+window_tend_burst = 0.1
+window_bins_burst = 20
+
+
+warren  + sukhbold
+
+window_tstart = 0.1 # Zha
+window_tend = 1.5
+window_bins = 14
+
+window_tstart_burst = -0.1 # Zha
+window_tend_burst = 0.1
+window_bins_burst = 20
+
+
