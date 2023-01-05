@@ -13,4 +13,5 @@
   - A list of commands will be outputted. Copy the group of commands under `Copy these for interactions` and paste into a terminal. Repeat with code under `Copy these for fluence`
 - Now, it's time to graph and look at the data from SNEWPY. Open `fluence.ipynb` or `interactions.ipynb` - note that `fluence.ipynb` has more documentation
   - Here, you will also need to update some variables. Change `SNOwGLoBES_path` and `SNEWPY_models_base` like before. Change the time parameters to the same as you did for generate - this will throw an error if you do not.
-  - When calling the plotting function, be sure to change `my_files` variable to the path where your interactions or fluence files live. 
+  - When calling the plotting function, be sure to change `my_files` variable to the path where your interactions or fluence files live.
+  - Be sure to change the `flavor` argument to whatever nuetrino flavor or interaction you would like to see 
