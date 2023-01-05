@@ -8,7 +8,7 @@
   - update parameters like `detector`, `distance`, `transformation`....
   - change times to the times you'd like to run (NOTE: this varies by model, will get an error if your time does not fall within the parameters of the model)
   - in the second code-block, change the `modeltype` and `model` variables like `modeltype = matrix[x][0]` and `model = matrix[x][1]` where `x` corresponds to the row of model you want. Change the matrix if you don't see yours
-  - Update `new_dir_fluence = "."` and `new_dir_interactions = "."`. This is where your files will go once run
+  - Update `new_dir_fluence = ""` and `new_dir_interactions = ""` by putting your absolute path in the quotes. This is where your files will go once run - must be a real, empty directory.
   - when these have been updated, it's time to run. Run all code-blocks starting with the first
   - A list of commands will be outputted. Copy the group of commands under `Copy these for interactions` and paste into a terminal. Repeat with code under `Copy these for fluence`
 - Now, it's time to graph and look at the data from SNEWPY. Open `fluence.ipynb` or `interactions.ipynb` - note that `fluence.ipynb` has more documentation
