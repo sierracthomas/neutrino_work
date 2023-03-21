@@ -1220,6 +1220,30 @@
     (path "/88533859-6a53-45ad-890f-6a024ef0cb6b/a0f067be-5713-4384-b26e-939d7d3253ca"
       (reference "R20") (unit 1) (value "R_US") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
+    (path "/88533859-6a53-45ad-890f-6a024ef0cb6b/e12948c3-1e41-4d7d-b033-8002add5345c"
+      (reference "R21") (unit 1) (value "R_US") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/88533859-6a53-45ad-890f-6a024ef0cb6b/7f73a316-7a58-4516-8c40-cbc4aa0a5ea4"
+      (reference "R22") (unit 1) (value "R_Variable_US") (footprint "Potentiometer_SMD:Potentiometer_Bourns_3214G_Horizontal")
+    )
+    (path "/f0fe8a2b-c48e-4b4b-862d-8adf6b1a4acb/e12948c3-1e41-4d7d-b033-8002add5345c"
+      (reference "R23") (unit 1) (value "R_US") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/f0fe8a2b-c48e-4b4b-862d-8adf6b1a4acb/7f73a316-7a58-4516-8c40-cbc4aa0a5ea4"
+      (reference "R24") (unit 1) (value "R_Variable_US") (footprint "Potentiometer_SMD:Potentiometer_Bourns_3214G_Horizontal")
+    )
+    (path "/20eb0d7e-8d0a-45ac-bae8-725f1788717d/e12948c3-1e41-4d7d-b033-8002add5345c"
+      (reference "R25") (unit 1) (value "R_US") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/20eb0d7e-8d0a-45ac-bae8-725f1788717d/7f73a316-7a58-4516-8c40-cbc4aa0a5ea4"
+      (reference "R26") (unit 1) (value "R_Variable_US") (footprint "Potentiometer_SMD:Potentiometer_Bourns_3214G_Horizontal")
+    )
+    (path "/5370d0e0-f086-468e-8cac-84fda410327a/e12948c3-1e41-4d7d-b033-8002add5345c"
+      (reference "R27") (unit 1) (value "R_US") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/5370d0e0-f086-468e-8cac-84fda410327a/7f73a316-7a58-4516-8c40-cbc4aa0a5ea4"
+      (reference "R28") (unit 1) (value "R_Variable_US") (footprint "Potentiometer_SMD:Potentiometer_Bourns_3214G_Horizontal")
+    )
     (path "/728da483-91d6-44f3-8944-95be1d072acd"
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Loop_D3.80mm_Drill2.0mm")
     )
