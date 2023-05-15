@@ -1,0 +1,12 @@
+#class tools::wcsv::ntuple
+#title Hits
+#separator 44
+#vector_separator 59
+#column int event_id
+#column int track_id
+#column int type
+#column double delta_x
+#column double delta_y
+#column double delta_z
+#column double delta_E
+#column int process
