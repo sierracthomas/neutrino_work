@@ -1,0 +1,10 @@
+#
+# a-Ho165-omp2
+#
+# General
+#
+projectile p
+element    Ar
+mass       40
+energy   50
+ejectiles p
