@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "2023-02-26_21-14-33")(type "Legacy")(uri "/Users/sierra/Downloads/ul_430450419/KiCAD/2023-02-26_21-14-33/2023-02-26_21-14-33.lib")(options "")(descr ""))
+  (lib (name "3361P-1-104GLF")(type "KiCad")(uri "/Users/sierra/Downloads/3361P-1-104GLF/3361P-1-104GLF.kicad_sym")(options "")(descr ""))
+)
